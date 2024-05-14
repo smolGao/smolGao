@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wenjie.
-- 👀 I’m interested in Computer Sciecne.
-- 🌱 I’m currently learning Lower Level System, etc.
+- 👀 I’m a bachelor Computer Sciecne.
+- 🌱 I graduated from Temple University in May 2024.
 - 💞️ I’m looking to collaborate on any pratical project.
 - 📫 How to reach me: wenjiegao1@gmail.com.
 
